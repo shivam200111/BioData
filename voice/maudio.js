@@ -73,7 +73,6 @@ function maudio(_opt){
         currentAudio = audio
         currentAudioBox = audioBox
         window.t = window.setInterval(function(){
-          progressBar()
         },500)
       }
     })
